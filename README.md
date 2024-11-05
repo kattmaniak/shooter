@@ -10,5 +10,5 @@ This project was made as a part of a course on Computer Graphics at the Universi
 
 ## Controls
 WASD, Arrows - move  
-Left mouse button - fire regular ammo
+Left mouse button - fire regular ammo  
 Right mouse button - fire special ammo
